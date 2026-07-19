@@ -1,7 +1,7 @@
-# Sistema de Gestión de Restaurante Mejorado (Semana 8)
+# Sistema de Gestión de Restaurante (Semana 8)
 
 ## Estudiante
-[Tu Nombre Completo Aquí]
+Dario Javier Guerrero Palma
 
 ## Descripción del Sistema
 Este proyecto desarrolla una versión mejorada de un sistema de gestión para un restaurante, aplicando los principios de la Programación Orientada a Objetos (POO) en Python. El sistema permite registrar y listar productos (incluyendo bebidas como un tipo especializado de producto) y clientes a través de un menú interactivo ejecutado desde la consola.
