@@ -3,11 +3,14 @@ from modelos.producto import Producto
 from modelos.usuario import Usuario
 
 def mostrar_menu(rest: Restaurante) -> None:
+    print("        SISTEMA DE RESTAURANTE")
     print("========================================")
-    print("       SISTEMA DE RESTAURANTE")
-    print("========================================")
+    print()
+
     for key in sorted(rest.MENU_MAP):
-        print(f"{key}. {rest.MENU_MAP[key]}")
+        print(f"{key}.")
+        print(rest.MENU_MAP[key])
+        print()
         if key == 5:
             print("----------------------------------------")
         if key == 7:
