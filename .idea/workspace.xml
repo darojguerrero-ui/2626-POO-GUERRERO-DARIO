@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15ef10ef-00fb-499e-8ef2-c073c6b40a78" name="Changes" comment="COMMIT AND PUSH">
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/datos/productos.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/modelos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/modelos/producto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/modelos/usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/servicios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/servicios/archivo_servicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/servicios/restaurante.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA 9/restaurante_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA 9/restaurante_app/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Dario/Documents/UEA" value="3EhE2rmk9NMgQ7PxXZwafYj0sDT" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="49" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;darojguerrero-ui&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/darojguerrero-ui/2626-POO-GUERRERO-DARIO.git&quot;,
+    &quot;accountId&quot;: &quot;4f78e225-d2b8-4c6c-ae5c-1ff5464a64a8&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0077057965907503" />
+      <entry key="MS500" value="1.4471697823269492" />
+      <entry key="S2" value="3.021780597648703" />
+      <entry key="S5" value="5.1568731019721055" />
+      <entry key="S10" value="6.674315411724086" />
+      <entry key="S30" value="9.647176470942279" />
+      <entry key="S60" value="14.706832356270903" />
+      <entry key="M2" value="21.33379779107278" />
+      <entry key="M5" value="28.30693697651349" />
+      <entry key="M10" value="31.53700166568624" />
+      <entry key="M15" value="33.32565332008367" />
+      <entry key="M30" value="38.45143908774019" />
+      <entry key="H1" value="46.01951492507742" />
+      <entry key="H2" value="53.05366378347331" />
+      <entry key="H4" value="57.91918956147142" />
+      <entry key="D1" value="62.88966633192963" />
+      <entry key="W1" value="63.838826772243735" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="3.0646033767286906E-299" />
+      <entry key="S10" value="5.535885996594125E-150" />
+      <entry key="S30" value="1.769004941100838E-50" />
+      <entry key="S60" value="1.330039450956564E-25" />
+      <entry key="M2" value="3.6469705934605036E-13" />
+      <entry key="M5" value="1.0586999793195887E-5" />
+      <entry key="M10" value="0.003253767015813502" />
+      <entry key="M15" value="0.021957908357541196" />
+      <entry key="M30" value="0.14818201091070807" />
+      <entry key="H1" value="0.38494416596528364" />
+      <entry key="H2" value="0.6204386883208393" />
+      <entry key="H4" value="0.7876793055049995" />
+      <entry key="D1" value="0.9610033595660201" />
+      <entry key="W1" value="0.9943336327465927" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.01469811183107278" />
+      <entry key="MS500" value="0.8165928191037214" />
+      <entry key="S2" value="2.7885626382427633" />
+      <entry key="S5" value="5.04483028193362" />
+      <entry key="S10" value="6.6125606832444355" />
+      <entry key="S30" value="9.623995035147695" />
+      <entry key="S60" value="14.693199571712892" />
+      <entry key="M2" value="21.32537831388245" />
+      <entry key="M5" value="28.302805863094807" />
+      <entry key="M10" value="31.537929288321674" />
+      <entry key="M15" value="33.34574587852357" />
+      <entry key="M30" value="38.59776275746851" />
+      <entry key="H1" value="46.40267964264175" />
+      <entry key="H2" value="53.67279160801919" />
+      <entry key="H4" value="58.70606408093656" />
+      <entry key="D1" value="63.85050977746752" />
+      <entry key="W1" value="64.83313685201034" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EhE2rmk9NMgQ7PxXZwafYj0sDT" />
+  <component name="ProjectSessionTemplates">
+    <option name="inlineTemplate">
+      <template>
+        <option name="modeId" value="InlineAgent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mascota.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tradicional.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dario/Documents/UEA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dario\Documents\UEA\2626-POO-GUERRERO-DARIO-\PARCIAL 2" />
+      <recent name="C:\Users\Dario\Documents\UEA\2626-POO-GUERRERO-DARIO-\PARCIAL1" />
+      <recent name="C:\Users\Dario\Documents\UEA\2626-POO-GUERRERO-DARIO-\PARCIAL1\SEMANA5" />
+      <recent name="C:\Users\Dario\Documents\UEA\2626-POO-GUERRERO-DARIO-\PARCIAL1\SEMANA4" />
+      <recent name="C:\Users\Dario\Documents\UEA\2626-POO-GUERRERO-DARIO-\PARCIAL1\SEMANA2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UEA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA 7/restaurante_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA 7/restaurante_app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UEA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA4/restaurante_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA4/restaurante_app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tradicional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UEA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA3/programacion_tradicional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA3/programacion_tradicional/tradicional.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.tradicional" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-84eaadda3698-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.27258.51" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15ef10ef-00fb-499e-8ef2-c073c6b40a78" name="Changes" comment="" />
+      <created>1780622200853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780622200853</updated>
+      <workItem from="1780622210174" duration="926000" />
+      <workItem from="1780623270379" duration="1466000" />
+      <workItem from="1781311892942" duration="1993000" />
+      <workItem from="1781314315989" duration="2839000" />
+      <workItem from="1781317462000" duration="3041000" />
+      <workItem from="1781830194576" duration="365000" />
+      <workItem from="1781830864726" duration="6414000" />
+      <workItem from="1782523475370" duration="502000" />
+      <workItem from="1782524412258" duration="3406000" />
+      <workItem from="1782528178240" duration="699000" />
+      <workItem from="1782528994479" duration="4003000" />
+      <workItem from="1783130012059" duration="2822000" />
+      <workItem from="1783880515799" duration="59000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1781835171556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781835171556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1781835266394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781835266394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1781836566046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781836566046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1782531809169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782531809169</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1782532121169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782532121169</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1782532399406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782532399406</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1784425179935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784425179935</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1784425541747</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784425541747</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit and push">
+      <option name="closed" value="true" />
+      <created>1784426454170</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784426454170</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit and push">
+      <option name="closed" value="true" />
+      <created>1784427397025</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784427397025</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit&#10;and push">
+      <option name="closed" value="true" />
+      <created>1784431383674</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784431383674</updated>
+    </task>
+    <task id="LOCAL-00012" summary="agrego semana 8 completa">
+      <option name="closed" value="true" />
+      <created>1784437788478</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1784437788478</updated>
+    </task>
+    <task id="LOCAL-00013" summary="COMMIT AND PUSH">
+      <option name="closed" value="true" />
+      <created>1784438227581</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1784438227581</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit and Push" />
+    <MESSAGE value="commit and push" />
+    <MESSAGE value="commit&#10;and push" />
+    <MESSAGE value="agrego semana 8 completa" />
+    <MESSAGE value="COMMIT AND PUSH" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT AND PUSH" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UEA$main.coverage" NAME="main Coverage Results" MODIFIED="1783132104334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA4/restaurante_app" />
+    <SUITE FILE_PATH="coverage/UEA$tradicional.coverage" NAME="tradicional Coverage Results" MODIFIED="1781832059636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL1/SEMANA3/programacion_tradicional" />
+  </component>
+</project>
