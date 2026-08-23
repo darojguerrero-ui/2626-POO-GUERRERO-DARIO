@@ -7,13 +7,7 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ef10ef-00fb-499e-8ef2-c073c6b40a78" name="Changes" comment="COMMIT AND PUSH">
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-" beforeDir="false" afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA 9/restaurante_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA 9/restaurante_app/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="15ef10ef-00fb-499e-8ef2-c073c6b40a78" name="Changes" comment="COMMIT AND PUSH" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -401,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784438227581</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="COMMIT AND PUSH">
+      <option name="closed" value="true" />
+      <created>1787444686173</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1787444686173</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
