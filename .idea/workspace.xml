@@ -9,18 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="15ef10ef-00fb-499e-8ef2-c073c6b40a78" name="Changes" comment="COMMIT AND PUSH">
       <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/datos/productos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/modelos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/modelos/producto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/modelos/usuario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/servicios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/servicios/archivo_servicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app/servicios/restaurante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-" beforeDir="false" afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA 9/restaurante_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA 9/restaurante_app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +25,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="49" />
+    <option name="cachedIndexableFilesCount" value="60" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2626-POO-GUERRERO-DARIO-/PARCIAL 2/SEMANA10/restaurante_app" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -157,35 +148,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mascota.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tradicional.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dario/Documents/UEA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mascota.executor": "Run",
+    "Python.tradicional.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Dario/Documents/UEA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dario\Documents\UEA\2626-POO-GUERRERO-DARIO-\PARCIAL 2" />
