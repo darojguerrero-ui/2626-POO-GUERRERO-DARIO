@@ -1,3 +1,4 @@
+Autor: Dario Guerrero
 # Sistema de Restaurante - Programación Orientada a Objetos (POO)
 
 ## Información del Estudiante
