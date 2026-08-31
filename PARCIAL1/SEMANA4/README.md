@@ -1,4 +1,3 @@
-Autor: Dario Guerrero
 # Sistema de Gestion de Restaurante
 
 ## Descripcion

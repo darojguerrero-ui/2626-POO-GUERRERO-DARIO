@@ -1,4 +1,3 @@
-Autor: Dario Guerrero
 # Sistema de Gestión de Restaurante (Semana 8)
 
 ## Estudiante

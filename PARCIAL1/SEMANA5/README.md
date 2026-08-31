@@ -1,4 +1,3 @@
-Autor: Dario Guerrero
 # Sistema Básico de Gestión de Restaurante
 
 ## Estudiante
